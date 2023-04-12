@@ -1,0 +1,22 @@
+customer_id,order_quantity,order_date,price,restaurant_name,food_name,restaurant_address_line1,restaurant_address_line2,item_description,restaurant_city,restaurant_state,restaurant_zip_code,customer_name,customer_address,customer_email
+1,2,02/07/2022,25.5,Italiano Pizza ,Tuner fish pizza,123 Main St,NULL,,New York City,New York,10001,John Smith,123 Main St,johnsmith@gmail.com
+6,1,21/12/2022,25.5,Italiano Pizza ,Margherita Pizza,123 Main St,NULL,,New York City,New York,10001,Jane Doe,456 Main St,jane@gmail.com
+1,2,16/02/2023,25.5,Italiano Pizza ,Mushroom pizza,123 Main St,NULL,,New York City,New York,10001,John Smith,123 Main St,johnsmith@gmail.com
+1,2,16/02/2023,25.5,Italiano Pizza ,Margherita Pizza,123 Main St,NULL,,New York City,New York,10001,John Smith,123 Main St,johnsmith@gmail.com
+2,1,29/11/2022,26.99,Breakfast Café ,sausage,456 Elm St,NULL,,Boston,Massachusetts,2110,Jane Doe,456 Park Ave,janedoe@gmail.com
+2,1,29/11/2022,26.99,Breakfast Café ,Black coffee,456 Elm St,NULL,,Boston,Massachusetts,2110,Jane Doe,456 Park Ave,janedoe@gmail.com
+2,1,22/09/2022,10.99,Breakfast Café ,Macaroni,456 Elm St,NULL,,Boston,Massachusetts,2110,Jane Doe,456 Park Ave,janedoe@gmail.com
+2,1,22/09/2022,10.99,Breakfast Café ,Black coffee,456 Elm St,NULL,,Boston,Massachusetts,2110,Jane Doe,456 Park Ave,janedoe@gmail.com
+2,1,27/02/2023,10.99,Breakfast Café ,Oxtail,456 Elm St,NULL,,Boston,Massachusetts,2110,Jane Doe,456 Park Ave,janedoe@gmail.com
+2,3,20/12/2022,10.99,Breakfast Café ,Custard,456 Elm St,NULL,,Boston,Massachusetts,2110,Jane Doe,456 Park Ave,janedoe@gmail.com
+2,3,20/12/2022,10.99,Breakfast Café ,Beans,456 Elm St,NULL,,Boston,Massachusetts,2110,Jane Doe,456 Park Ave,janedoe@gmail.com
+3,1,12/11/2022,35.78,Burger King ,Burger,336 Main St,NULL,,New York City,New York,13201,Bob Johnson,789 Elm St,bobjohnson@gmail.com
+3,1,12/11/2022,35.78,Burger King ,Cola,336 Main St,NULL,,New York City,New York,13201,Bob Johnson,789 Elm St,bobjohnson@gmail.com
+3,1,12/11/2022,35.78,Burger King ,Chicken,336 Main St,NULL,,New York City,New York,13201,Bob Johnson,789 Elm St,bobjohnson@gmail.com
+3,1,16/06/2022,24.65,Burger King ,Cheese Burger,336 Main St,NULL,,New York City,New York,13201,Bob Johnson,789 Elm St,bobjohnson@gmail.com
+3,1,16/06/2022,24.65,Burger King ,Fanta,336 Main St,NULL,,New York City,New York,13201,Bob Johnson,789 Elm St,bobjohnson@gmail.com
+3,1,16/06/2022,24.65,Burger King ,Chicken,336 Main St,NULL,,New York City,New York,13201,Bob Johnson,789 Elm St,bobjohnson@gmail.com
+4,1,03/05/2022,45,Afro kitchen ,Abacha,076 Hamburg St,NULL,,Hamburg City,Hamburg,10032,Okafor Ikechukwu,92 Ikenga St,okafor@gmail.com
+4,1,03/05/2022,45,Afro kitchen ,Nkwobi,076 Hamburg St,NULL,,Hamburg City,Hamburg,10032,Okafor Ikechukwu,92 Ikenga St,okafor@gmail.com
+4,1,03/05/2022,45,Afro kitchen ,Oha Soup,076 Hamburg St,NULL,,Hamburg City,Hamburg,10032,Okafor Ikechukwu,92 Ikenga St,okafor@gmail.com
+5,3,03/05/2022,50,Afro foods ,Ugba,123 Hamburg St,NULL,,Hamburg City,Hamburg,10041,Jeffrey Godson,083 john St,jef@gmail.com

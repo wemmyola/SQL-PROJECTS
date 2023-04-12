@@ -1,0 +1,6 @@
+state_id,restaurant_state,restaurant_city,restaurant_zip_code,restaurant_address_line1,restaurant_address_line2
+1,New York,New York City,10001,123 Main St,NULL
+2,Massachusetts,Boston,2110,456 Elm St,NULL
+3,New York,New York City,13201,336 Main St,NULL
+4,Hamburg,Hamburg City,10032,076 Hamburg St,NULL
+5,Hamburg,Hamburg City,10041,123 Hamburg St,NULL
